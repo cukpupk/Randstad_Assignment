@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`user text is echoed 1`] = `ShallowWrapper {}`;
